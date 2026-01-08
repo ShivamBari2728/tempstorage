@@ -1,0 +1,108 @@
+{
+  "simpleWords": [
+    {
+      "word": "APPLE",
+      "imageAsset": "https://img.freepik.com/free-vector/apple-colorful-vector-design_341269-1123.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "BALL",
+      "imageAsset": "https://img.freepik.com/premium-vector/vector-ball-cartoon-style_642458-2290.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "CAT",
+      "imageAsset": "https://img.freepik.com/free-vector/little-cute-cat-cartoon-character_1308-138075.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "DOG",
+      "imageAsset": "https://img.freepik.com/free-vector/happy-puppy-with-heart-tag-illustration_1308-162909.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "ELEPHANT",
+      "imageAsset": "https://img.freepik.com/free-vector/cute-elephant-cartoon-character_1308-140119.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "FISH",
+      "imageAsset": "https://img.freepik.com/free-vector/hand-drawn-clown-fish-cartoon-illustration_23-2150683251.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "GIRAFFE",
+      "imageAsset": "https://img.freepik.com/free-vector/giraffe-cartoon-character-isolated-white-background_1308-158120.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "HAT",
+      "imageAsset": "https://cdn.vectorstock.com/i/500p/63/60/cartoon-brown-cowboy-hat-icon-vector-56096360.jpg"
+    },
+    {
+      "word": "ICE CREAM",
+      "imageAsset": "https://img.freepik.com/premium-vector/cartoon-drawing-ice-cream-cone-with-word-ice-cream-it_1166763-33091.jpg"
+    },
+    {
+      "word": "JEEP",
+      "imageAsset": "https://img.freepik.com/free-photo/cartoon-tropical-island-landscape_23-2151724050.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "KITE",
+      "imageAsset": "https://img.freepik.com/premium-vector/kite-cartoon-vector-illustration-cute-kite-cartoon-drawing-playful-flying-toy-design_648083-519.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "LION",
+      "imageAsset": "https://img.freepik.com/free-photo/adorable-lion-nature_23-2151003435.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "MONKEY",
+      "imageAsset": "https://img.freepik.com/free-vector/happy-monkey-cartoon-character_1308-141042.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "NEST",
+      "imageAsset": "https://t4.ftcdn.net/jpg/02/05/05/03/360_F_205050302_B3EplqpMkelaCqFHSXRQtnbDj0eEtz4v.jpg"
+    },
+    {
+      "word": "ORANGE",
+      "imageAsset": "https://media.istockphoto.com/id/165974969/vector/florida-orange.jpg?s=612x612&w=0&k=20&c=MBErgzy-4tpUyXx0rrkvOyyF1X6vps_bm970ozvNpRk="
+    },
+    {
+      "word": "PENGUIN",
+      "imageAsset": "https://img.freepik.com/free-photo/cartoony-penguin-studio_23-2151002300.jpg"
+    },
+    {
+      "word": "QUEEN",
+      "imageAsset": "https://png.pngtree.com/png-vector/20230808/ourmid/pngtree-queen-crown-clipart-cartoon-girl-with-golden-crown-vector-png-image_6862946.png"
+    },
+    {
+      "word": "RABBIT",
+      "imageAsset": "https://img.freepik.com/premium-vector/vector-cute-happy-cartoon-rabbit-holding-carrot_1277261-1063.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "SUN",
+      "imageAsset": "https://media.istockphoto.com/id/1354219060/vector/sun-vector-cartoon-vector-logo-for-web-design-vector-illustration.jpg?s=612x612&w=0&k=20&c=nBAAzTT-al6gqBfdQi4E3l6AUK1g_b0LG0rBo0QlGDU="
+    },
+    {
+      "word": "TREE",
+      "imageAsset": "https://img.freepik.com/free-vector/vibrant-cartoon-tree-illustration_1308-177212.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "UMBRELLA",
+      "imageAsset": "https://img.freepik.com/premium-vector/umbrella-cartoon-vector-illustration-white-background_1293239-12528.jpg"
+    },
+    {
+      "word": "VAN",
+      "imageAsset": "https://img.freepik.com/free-vector/hand-drawn-van-cartoon-illustration_23-2151357058.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "WHALE",
+      "imageAsset": "https://img.freepik.com/free-vector/cute-whale-cartoon-character_1308-118310.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "word": "XYLOPHONE",
+      "imageAsset": "https://img.freepik.com/premium-vector/cartoon-xylophone-vector-illustration-colorful-cartoon-xylophone-drawing-cute-musical-instrument-d_648083-633.jpg"
+    },
+    {
+      "word": "YAK",
+      "imageAsset": "https://media.istockphoto.com/id/1248711719/vector/cartoon-animal-yak-illustration-for-pre-school-education-kindergarten-and-kids-and-children.jpg?s=612x612&w=0&k=20&c=likbPFkBGkzt_ndYgHx6nOwSP9Di8DnSkOWNGJo8a-s="
+    },
+    {
+      "word": "ZEBRA",
+      "imageAsset": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjGm3oRhgTGOIqxuqywXQ1dBNrhCBMTJLBA&s"
+    }
+  ]
+}
