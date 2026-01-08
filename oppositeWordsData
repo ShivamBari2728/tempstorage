@@ -1,0 +1,28 @@
+{
+  "oppositeWords": [
+    {
+      "leftWord": "BIG",
+      "rightWord": "SMALL",
+      "leftImage": "https://www.shutterstock.com/image-illustration/big-kind-blue-elephant-cartoon-260nw-1352281919.jpg",
+      "rightImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrYFTQb92bX0veJXBx5nL5HeqLqK6eZmRYA&s"
+    },
+    {
+      "leftWord": "HOT",
+      "rightWord": "COLD",
+      "leftImage": "https://img.freepik.com/free-vector/flat-summer-heat-illustration-with-man-sweating-sun_23-2149433187.jpg?semt=ais_hybrid&w=740&q=80",
+      "rightImage": "https://thumbs.dreamstime.com/z/cartoon-illustration-cold-freezing-man-freezing-cold-164283346.jpg"
+    },
+    {
+      "leftWord": "FAST",
+      "rightWord": "SLOW",
+      "leftImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0TAQEwvYa1BOPj8Od-b2Nxb4-DhSfQNiNTw&s",
+      "rightImage": "https://thumbs.dreamstime.com/z/print-174671513.jpg"
+    },
+    {
+      "leftWord": "DAY",
+      "rightWord": "NIGHT",
+      "leftImage": "https://img.freepik.com/free-vector/flat-design-landscape_23-2149141016.jpg?semt=ais_hybrid&w=740&q=80",
+      "rightImage": "https://t4.ftcdn.net/jpg/10/02/96/49/360_F_1002964906_LTxzSWPFxCA7zRF6rhEhdWB747LRV3Ki.jpg"
+    }
+  ]
+}
